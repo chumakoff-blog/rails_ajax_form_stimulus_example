@@ -1,0 +1,9 @@
+<h1>Call Back Form</h1>
+
+<%= form_for :call_back_request, url: call_back_request_path, 
+                                 html: { data: { controller: "call_back_requests_form" } } do |f| %>
+  <%= f.text_field :name, placeholder: "Your name" %>
+  <%= f.phone_field :phone, placeholder: "Enter your phone number" %>
+ 
+  <%= f.submit "Submit" %>               
+<% end %>
