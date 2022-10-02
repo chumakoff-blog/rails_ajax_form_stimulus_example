@@ -1,24 +1,3 @@
-# README
+# Handling Ajax form submission with Stimulus example app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Read this post for more info https://blog.chumakoff.com/en/posts/rails_ajax_form_with_turbo_and_stimulus
